@@ -1,31 +1,74 @@
-<h1 align="center">Hi 👋, I'm obaude ayodeji michael</h1>
-<h3 align="center">A data scientist leveraging machine learning and Python to uncover meaningful insights.</h3>
+<h1 align="center">🚀 Welcome, I'm Obaude Ayodeji Michael</h1>
+<h3 align="center">🔬 Data Scientist | Python Enthusiast | Machine Learning Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obaude95&label=Profile%20views&color=0e75b6&style=flat" alt="obaude95" /> </p>
-
-- 🔭 I’m currently working on [diabetes prediction model using logistic regression](https://github.com/OBAUDE95/Diabetes-Classification-Using-Logistic-Regression)
-
-- 🌱 I’m currently learning **Natural language processing ,Time Series Forcasting**
-
-- 👨‍💻 All of my projects are available at [https://github.com/OBAUDE95?tab=repositories](https://github.com/OBAUDE95?tab=repositories)
-
-- 📝 I regularly write articles on [https://medium.com/@obaudeayodeji/](https://medium.com/@obaudeayodeji/)
-
-- 📫 How to reach me **obaudeayodejimichael@gmail.com**
-
-- 📄 Know about my experiences [https://obaude95.github.io/](https://obaude95.github.io/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayodeji-obaude-79b5051b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayodeji-obaude-79b5051b2" height="30" width="40" /></a>
-<a href="https://medium.com/obaudeayodeji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="obaudeayodeji" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@dynamictechnocrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dynamictechnocrat" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Solving+Real-World+Problems+with+Data+and+ML;Python+%7C+Machine+Learning+%7C+NLP+%7C+Analytics+in+Action;Currently+Exploring+NLP+and+Time+Series+Forecasting" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=obaude95&label=Profile%20Views&color=0e75b6&style=flat" alt="obaude95" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obaude95&show_icons=true&locale=en&layout=compact" alt="obaude95" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obaude95&show_icons=true&locale=en" alt="obaude95" /></p>
+### 👨‍💻 About Me
+- 🧠 Passionate about transforming data into actionable insights using **Python**, **ML**, and **statistical models**  
+- 📈 Currently working on a [**Diabetes Prediction Model using Logistic Regression**](https://github.com/OBAUDE95/Diabetes-Classification-Using-Logistic-Regression)  
+- 📚 Learning **Natural Language Processing** and **Time Series Forecasting** to expand AI-driven solutions  
+- 📝 I share insights and tutorials on [Medium](https://medium.com/@obaudeayodeji)  
+- 🎥 I create educational content on [YouTube](https://www.youtube.com/@dynamictechnocrat)
 
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/ayodeji-obaude-79b5051b2" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://medium.com/@obaudeayodeji" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Medium" height="30" width="40"/>
+  </a>
+  <a href="https://www.youtube.com/@dynamictechnocrat" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" height="30" width="40"/>
+  </a>
+  <a href="mailto:obaudeayodejimichael@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+### 🧰 Tools & Technologies
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40" alt="scikit-learn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="40" height="40" alt="Tableau"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40" alt="Seaborn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=obaude95&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaude95&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🔥 Featured Projects
+- 🩺 **Diabetes Prediction Model** – Used logistic regression to classify patients based on health metrics  
+- 💬 **NLP Explorations** – Currently developing tools for text analysis and sentiment classification  
+- 📈 **Forecasting with Time Series** – Working on predicting product demand and sales cycles  
+- 📚 **Medium Articles** – Covering topics from regression to visualization best practices
+
+---
+
+🌟 *"Driven by curiosity, powered by data."*
